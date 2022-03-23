@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    background-color: #261b0d;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #ffee00;
+}
+
+.primeira-linha {
+    align-items: center;
+    justify-content: space-around;
+    padding: 400px;
+    padding-left: 700px;
+    padding-top: 360px;
+}
+
+.reflita1 {
+    display: inline-block;
+    flex-direction: row;
+    padding-left: 1px;
+    gap: 65px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    color: #fff;
+
+}
+
+.reflita2 {
+    display: inline-block;
+    flex-direction: row;
+    padding-left: 10px;
+    gap: 65px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-decoration: rgb(104, 103, 28);
+    text-shadow: 1px 0px 20px rgb(255, 217, 0);
+}
+
+.reflita3 {
+    display: inline-block;
+    flex-direction: row;
+    padding-left: .2px;
+    gap: 65px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    color: #fff;
+}
+
+
+
+.reflita4 {
+    align-items: center;
+    display: inline-block;
+    flex-direction: row;
+    padding-left: 1px;
+    gap: 65px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 5px;
+    color: #fff;
+}
+
+.reflita5 {
+    display: inline-block;
+    flex-direction: row;
+    padding-left: .2px;
+    gap: 65px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-decoration: rgb(104, 103, 28);
+    text-shadow: 1px 0px 20px rgb(255, 217, 0);
+}
+
+.reflita6 {
+    display: inline-block;
+    flex-direction: row;
+    padding-left: .2px;
+    gap: 65px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    color: #fff;
+}
+
+.reflita7 {
+    display: inline-block;
+    flex-direction: row;
+    padding-left: 1px;
+    gap: 65px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-decoration: rgb(104, 103, 28);
+    text-shadow: 1px 0px 20px rgb(255, 217, 0);
+}
+
+.reflita8 {
+    align-items: center;
+    display: inline-block;
+    flex-direction: row;
+    padding-left: 8px;
+    gap: 65px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 5px;
+    color: #fff;
+}
+
+.reflita9 {
+    display: inline-block;
+    flex-direction: row;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-decoration: rgb(104, 103, 28);
+    text-shadow: 1px 0px 20px rgb(255, 217, 0);
+}
+
+.reflita10 {
+    align-items: center;
+    display: inline-block;
+    flex-direction: row;
+    padding-left: 1px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 5px;
+    color: #fff;
+}
+
+.reflita11 {
+    align-items: center;
+    display: inline-block;
+    flex-direction: row;
+    padding-left: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 5px;
+    color: #fff;
+}
+
+.reflita12 {
+    display: inline-block;
+    flex-direction: row;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1px;
+    text-decoration: rgb(104, 103, 28);
+    text-shadow: 1px 0px 20px rgb(255, 217, 0);
+}
+
+.reflita13 {
+    align-items: center;
+    display: inline-block;
+    flex-direction: row;
+    padding-left: 1px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 5px;
+    color: #fff;
+}
+
